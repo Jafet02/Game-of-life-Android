@@ -1,0 +1,2 @@
+android.app.Application
+El_juego_de_la_vida_android.El_juego_de_la_vida_android
